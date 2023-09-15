@@ -1,6 +1,6 @@
 <h1 align="center"> upload.ai | NLW - IA </h1>
 
-![preview](./.github/video-preview.mp4)
+https://github.com/maik-emanoel/upload-ai/assets/105499887/f1ac58bb-f663-4a56-80b3-6b42f2112172
 
 ## 🚀 Tecnologias
 
