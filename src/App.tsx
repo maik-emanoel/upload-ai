@@ -34,8 +34,8 @@ export function App() {
       temperature,
     },
     headers: {
-      'Content-type': 'application/json'
-    }
+      "Content-type": "application/json",
+    },
   });
 
   return (
@@ -51,8 +51,15 @@ export function App() {
           <Separator orientation="vertical" className="h-6" />
 
           <Button variant="outline">
-            <Github className="w-4 h-4 mr-2" />
-            Github
+            <a
+              href="http://github.com/maik-emanoel/upload-ai"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center"
+            >
+              <Github className="w-4 h-4 mr-2" />
+              Github
+            </a>
           </Button>
         </div>
       </div>
